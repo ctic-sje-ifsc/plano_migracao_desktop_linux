@@ -5,7 +5,7 @@ Neste repositório estão descritas as diretrizes e ações principais do nosso 
 Acreditamos que as informações a seguir foram a chave do sucesso do nosso caso e que podem ajudar outras instituições nessa (árdua) tarefa.
 
 ## Histórico
-Iniciamos o processo em março de 2016 com um universo de 130 máquinas e levamos um ano para atingir 85% do total. Os 15% restantes são máquinas de setores onde não é possível a migração (aplicativos específicos), ou há dificuldades técnicas e mesmo resistência para a migração.
+Iniciamos o processo em março de 2016 com um universo de 130 máquinas e levamos um ano para atingir 85% do total. Os 15% restantes foram máquinas de setores "críticos" (aplicativos específicos), ou houve dificuldades técnicas e mesmo resistência para a migração.
 
 Principais motivações para a migração:
 
